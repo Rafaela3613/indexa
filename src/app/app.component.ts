@@ -19,5 +19,5 @@ import { SeparadorComponent } from './componentes/separador/separador.component'
   ],
 })
 export class AppComponent {
-  title = 'indexa';
+  alfabeto: string = 'abcdefghijklmnopqrstuvwxyz';
 }
